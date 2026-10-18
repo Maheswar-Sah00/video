@@ -1,0 +1,10 @@
+[
+ {
+  "file": "audio/sfx.wav",
+  "volume": 1
+ },
+ {
+  "file": "audio/music.wav",
+  "volume": 1
+ }
+]
